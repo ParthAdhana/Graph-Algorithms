@@ -2,7 +2,6 @@
 
 Welcome to the **Famous Graph Algorithms Repository**! This repository is a comprehensive collection of popular and fundamental graph algorithms. Whether you're a student, developer, or researcher, you'll find this repository helpful for understanding and applying graph algorithms to solve real-world problems.
 
-![Graph Visualization](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Graph_algorithm.svg/512px-Graph_algorithm.svg.png)
 
 ## 🚀 What's Inside?
 
@@ -18,8 +17,6 @@ This repository includes implementations of:
   - Dijkstra's Algorithm
   - Bellman-Ford Algorithm
   - Floyd-Warshall Algorithm
-
-![Dijkstra Visualization](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif)
 
 - **Minimum Spanning Tree Algorithms**
   - Kruskal's Algorithm
